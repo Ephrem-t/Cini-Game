@@ -365,7 +365,7 @@ MonoBehaviour:
   background: {fileID: 0}
   Diamond: {fileID: 8300000, guid: f9221be9b6f8a8f47be0b41233ebf822, type: 3}
   ClickButton: {fileID: 8300000, guid: 809fe77f2f6254e4091071a180425598, type: 3}
-  wallTouch: {fileID: 8300000, guid: 83512c5d2273b3d43bd62463305cc6e7, type: 3}
+  wallTouch: {fileID: 8300000, guid: 3cf3b9ccc8242bd47b127ab40ab5890b, type: 3}
   GameOver: {fileID: 8300000, guid: 075402476e634f6479b2a15bc429f68d, type: 3}
 --- !u!4 &46436373
 Transform:
